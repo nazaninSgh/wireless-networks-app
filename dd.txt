@@ -1,6 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 rose no jack
 =======
 nazanin
 >>>>>>> 75c1345 (see conflict)
+=======
+jack
+>>>>>>> 2988632 (test rebase)
