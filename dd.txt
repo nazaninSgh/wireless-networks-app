@@ -1,6 +1,1 @@
-
-
-rose no jack
-=======
-jack
->>>>>>> 2988632e5beb6c1052684ed6e760f0ed54cd5c2a
+bla
